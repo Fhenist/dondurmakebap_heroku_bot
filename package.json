@@ -1,0 +1,14 @@
+{
+  "name": "nemesis",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node.js"
+  },
+  "author": "Fhenist",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
