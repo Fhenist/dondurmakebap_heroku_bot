@@ -83,5 +83,5 @@ client.on('message', msg => {
 //---------------------------------------------------------------------------------------------------------------
 //---------------------------------------------------------------------------------------------------------------
 
-client.login('NTk3ODIzMjkxMzM5NzAyMjc0.XSNtZw.lgn3S32nyycaoIeGw5T20ZgQmlk');
+client.login(process.env.BOT_TOKEN);
 //client.login('6l4IhH1Jj3JkSxklWlpH9OKO2Mzoj-C9');
